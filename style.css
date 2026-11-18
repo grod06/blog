@@ -1,16 +1,16 @@
 :root {
   --bg: #fff9f0;
-  --text: #0F1359;
+  --text: ##0c0f44;
   --muted: #829CE7;
   --accent: #E14458;
-  --card: #ffffff;
+  --card: #fffdfa;
   --border: #e7e1d6;
 }
 
 body.dark {
   --bg: #16181d;
   --text: #7CB8E1;
-  --muted: #9a9a9a;
+  --muted: ##D9B0BC;
   --accent: #E14458;
   --card: #1f2229;
   --border: #2d313a;
